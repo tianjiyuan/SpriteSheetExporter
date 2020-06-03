@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
-#include "CoreMisc.h"
+#include "Misc/CoreMisc.h"
 
 
 class FSpriteSheetExporterModule : public IModuleInterface, public FSelfRegisteringExec

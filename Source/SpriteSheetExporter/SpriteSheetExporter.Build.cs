@@ -39,7 +39,6 @@ public class SpriteSheetExporter : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				"RenderCore",
                 "Paper2D",
                 "PaperSpriteSheetImporter",
 				// ... add private dependencies that you statically link with here ...	
